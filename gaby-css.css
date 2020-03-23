@@ -1,0 +1,8 @@
+body {background-color: lightblue}
+h1 {background-color: purple; color: white}
+li {color: brown}
+p{color: green}
+img{height : 200px; width : 300px;
+border : 5px double #ddd;
+border-color:black;
+border-radius: 500%}
